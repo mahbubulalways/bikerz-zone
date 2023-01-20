@@ -1,0 +1,10 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+}
+.bg-img{
+    background-image: url(../images/bike-c.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-blend-mode: ;
+
+}
